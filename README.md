@@ -22,7 +22,7 @@ serveur. Une archive dont l'empreinte ne correspond pas est supprimee.
 
 ```text
 MoodleSync-moteur-windows.zip  ba86c780c2c5aacbe66dd4c40ca0093ef1f80426df2cb9b226a1faf3c1a1f51d
-MoodleSync-moteur-macos.zip    eeed5f3fcb824996f8e93d2c38a7983abc8579050cf71dbbc875b07f67673bb3
+MoodleSync-moteur-macos.zip    a7d6198ef730cfd6a93e2b3eb63d71f13bec1bfe60034be32ca93d23d9e72a96
 ```
 
 ## Provenance
